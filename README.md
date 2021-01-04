@@ -3,7 +3,7 @@
 Unofficial implementation of GraphNVP(https://arxiv.org/abs/1905.11600) using PyTorch.
 
 <p float="left" align="middle">
-  <img src="https://github.com/hlzhang109/PyTorch-GraphNVP/framework.png" width="800"/> 
+  <img src="https://github.com/hlzhang109/PyTorch-GraphNVP/blob/master/framework.png" width="800"/> 
 </p>
 
 ## Data Preparation
