@@ -2,6 +2,10 @@
 
 Unofficial implementation of GraphNVP(https://arxiv.org/abs/1905.11600) using PyTorch.
 
+<p float="left" align="middle">
+  <img src="https://github.com/hlzhang109/PyTorch-GraphNVP/framework.png" width="800"/> 
+</p>
+
 ## Data Preparation
 `python ./data/download_data.py --data_name=qm9`
 
