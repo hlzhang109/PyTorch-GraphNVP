@@ -2,7 +2,12 @@
 
 Unofficial implementation of GraphNVP(https://arxiv.org/abs/1905.11600) using PyTorch.
 
+## Data Preparation
+`python ./data/download_data.py --data_name=qm9`
+`python ./data/download_data.py --data_name=zinc250k`
 
+## Train GraphNVP
+`./train.sh`
 
 ## Citation
 ```
