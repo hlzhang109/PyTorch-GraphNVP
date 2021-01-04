@@ -1,0 +1,1 @@
+{'atom_list': [6, 7, 8, 9, 0], 'freedom': 0, 'node_dim': 5, 'max_size': 9, 'bond_dim': 4}
