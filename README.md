@@ -12,7 +12,7 @@ Implementation of GraphNVP(https://arxiv.org/abs/1905.11600) using PyTorch.
 `python ./data/download_data.py --data_name=zinc250k`
 
 ## Train GraphNVP
-`./train.sh`
+`bash ./train.sh`
 
 ## Citation
 ```
